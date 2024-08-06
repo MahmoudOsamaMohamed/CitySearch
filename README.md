@@ -11,9 +11,7 @@ Welcome to the repository for My Android Application! This app is designed for t
 
 ## Download
 
-You can download the latest version of the app from the link below:
-
-[Download My Android Application APK](CitySearch/city search.apk)
+You can find the apk in the repo above
 
 
 ## Contact
